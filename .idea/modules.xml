@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access center-114/access center-114.iml" filepath="$PROJECT_DIR$/access center-114/access center-114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access center-yizhitong/access center-yizhitong.iml" filepath="$PROJECT_DIR$/access center-yizhitong/access center-yizhitong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access center-zhuyi/access center-zhuyi.iml" filepath="$PROJECT_DIR$/access center-zhuyi/access center-zhuyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/access-center.iml" filepath="$PROJECT_DIR$/.idea/access-center.iml" />
+    </modules>
+  </component>
+</project>
